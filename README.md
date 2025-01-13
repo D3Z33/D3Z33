@@ -17,6 +17,8 @@
 ```bash
 ┌──(D3Z33㉿Terminal)-[~/sobre-mim]
 └─$ cat sobre-mim.txt
+
+carregando... [░░░░░░░░░░░░░░░░░] 0%
 ```
 <br>
 
@@ -67,7 +69,10 @@
 <br>
 
 ```bash
-carregando... [███████████░░░░░░░] 70%
+┌──(D3Z33㉿Terminal)-[~/sobre-mim]
+└─$ cat sobre-mim.txt
+
+carregando... [███████████░░░░░░░] 100%
 ```
 
 ---
@@ -75,19 +80,25 @@ carregando... [███████████░░░░░░░] 70%
 ## 🧠 Habilidades Técnicas
 
 ```bash
-ls habilidades_técnicas.?
+┌──(D3Z33㉿Terminal)-[~/habilidades-tecnicas]
+└─$ sudo ls -l
+
+-rw-r--r-- 1 D3Z33 users  140 Jan 13 12:00 Python-Bash-Scripting.txt
+-rwxr-xr-x 1 D3Z33 admin  105 Jan 13 12:00 Linux-CLI.txt
+-rw------- 1 D3Z33 root   130 Jan 13 12:00 Wireshark-Metasploit.txt
+-rw-rw-r-- 1 D3Z33 dev    120 Jan 13 12:00 Spring-Boot-APIs.txt
+-rwx------ 1 root   root  150 Jan 13 12:00 Docker-Kubernetes.txt
+-r--r----- 1 D3Z33 admin  140 Jan 13 12:00 Arduino-IoT-Projects.txt
+-rw-r--r-- 1 D3Z33 users  115 Jan 13 12:00 Active-Directory.txt
+-rw-rw-r-- 1 D3Z33 dev    125 Jan 13 12:00 Threat-Intelligence.txt
+-r--r--r-- 1 D3Z33 users  135 Jan 13 12:00 Vulnerability-Scanning.txt
+-rw-r--r-- 1 D3Z33 users  110 Jan 13 12:00 SIEM-Monitoring.txt
+-rwxr-xr-- 1 root   dev   145 Jan 13 12:00 Penetration-Testing.txt
+-rwx------ 1 D3Z33 admin  120 Jan 13 12:00 Incident-Response.txt
+-r--r----- 1 D3Z33 root   130 Jan 13 12:00 Network-Security.txt
+-rw------- 1 D3Z33 root   115 Jan 13 12:00 Firewall-Configuration.txt
+-rw-r--r-- 1 D3Z33 users  125 Jan 13 12:00 Endpoint-Security.txt
 ```
-
-## 🔨 Ferramenta	🌟 Nível	🧩 Aplicação
-
-🌟 Ferramenta	⚡ Nível Atual	🔍 Aplicação
-Python + Bash Scripting	Intermediário	Criação de ferramentas para pentest, automação de processos ofensivos.
-Linux (CLI)	Intermediário	Ambiente principal para experimentação e aprendizado.
-Wireshark + Metasploit	Básico/Intermediário	Análise de tráfego e exploração controlada para aprendizado prático.
-Spring Boot + APIs	Básico	Desenvolvimento inicial de APIs com boas práticas.
-Docker + Kubernetes	Básico	Criação de ambientes isolados para testes e automação.
-Arduino + IoT Projects	Intermediário	Integração hardware-software com foco em projetos criativos e técnicos.
-
 ---
 
 ```bash
