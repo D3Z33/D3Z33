@@ -170,16 +170,16 @@ carregando... [░░░░░░░░░░░░░░░░░] 0%
 >  - Efeitos visuais e interatividade para engajar o alvo e simular situações reais.  
 >  - Integração de scripts para armazenar e monitorar os dados em tempo real.  
 
->- **Tecnologias:** HTML, CSS, JavaScript, PHP.  
+>- **Tecnologias:** HTML, CSS, JavaScript, PHP e WireShark.  
 
-📂 **Características Ofensivas:**  
+📂 **Características:**  
 >- **Coleta Estratégica:** Captura de credenciais e metadados, como IP e User-Agent, armazenados para análise posterior.  
 >- **Simulação Realista:** Recriação de uma página de login com visual convincente e interatividade, projetada para explorar comportamentos comuns de usuários.  
->- **Monitoramento Dinâmico:** Uso de scripts para monitorar os dados capturados em tempo real via terminal, permitindo análise imediata.  
+>- **Monitoramento Dinâmico:** Uso de scripts para monitorar os dados capturados em tempo real via terminal e wireshark, permitindo análise imediata.  
 
 🔧 **Aplicações Práticas:**  
-Este desafio destaca habilidades em engenharia social ofensiva e simulação de ataques, proporcionando uma visão prática de como vulnerabilidades podem ser exploradas em ambientes reais.
- 
+>Este desafio destaca habilidades em engenharia social ofensiva e simulação de ataques, proporcionando uma visão prática de como vulnerabilidades podem ser exploradas em ambientes reais.
+ <br>
 
 ```bash
 Processo concluído: [███████████████] 100%
