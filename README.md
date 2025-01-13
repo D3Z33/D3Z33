@@ -300,12 +300,12 @@ Essas são as oficiais que precisou de 75% de assertividade na prova final.
 ```
 
 <br>
-#!/bin/bash
+#!/bin/bash 
+
 sudo su echo "~~ Bem-vindo ao jogo! ~~"
           
-- Carregando elementos essenciais...
+Carregando elementos essenciais...
 
-<br>
   
 > echo "[✔] Criando soluções que antecipam ameaças." 
 > echo "[✔] Transformando desafios em oportunidades." 
