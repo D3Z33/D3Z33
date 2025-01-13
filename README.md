@@ -15,29 +15,63 @@ inserir D3Z33 em várias linhas
 ```bash
 cat sobre-mim.txt
 ```
+💀 D3Z33: Explorador de vulnerabilidades, criador de soluções 👾
+"A verdadeira segurança não é a ausência de ameaças, mas a capacidade de antecipá-las."
 
-🌟 Olá! Meu nome é Renan (D3Z33), um explorador ofensivo na área de cibersegurança, sempre pronto para transformar curiosidade em resultados tangíveis.
+```bash
+vim sobre_mim.txt
+```
 
-🔭 Atualmente trabalhando em: Projetos ofensivos e automações para Red Team.
-🌱 Aprendendo sobre: Certificações SYCP, eCPPT, e infraestrutura para SOC.
-👯 Buscando colaborar em: Projetos de segurança ofensiva.
-⚡ Curiosidade divertida: Transformo ideias simples em projetos imersivos.
+🔭 Atualmente trabalhando em...
+Um projeto de Pentest Completo que simula o ciclo real de ataque e defesa.
+O desenvolvimento de um SOC Virtual, integrando automação defensiva e alertas inteligentes.
+
+🌱 Atualmente aprendendo...
+Certificação SYCP (Solyd Practical Pentest).
+eCPPT (Practical Professional Pentest).
+Técnicas avançadas em TryHackMe e Hack The Box.
+
+👯 Busco colaborar em...
+Projetos de automação ofensiva e defensiva.
+Simulações de ataques e práticas de segurança cibernética.
+
+💬 Pergunte-me sobre...
+Scripts para automação ofensiva em Python e Bash.
+Configuração de ambientes seguros com Linux e AD.
+Simulações de ataques para aprendizado prático.
+
+⚡ Curiosidade divertida...
+Adoro transformar problemas complexos em scripts simples que "parecem mágica".
 
 ---
-
-## 🔧 Minhas ferramentas favoritas
 
 ```bash
 carregando... [███████████░░░░░░░] 70%
 ```
 
+---
+
+## 🧠 Habilidades Técnicas
+
+```bash
+ls habilidades_técnicas.?
+```
+
 ## 🔨 Ferramenta	🌟 Nível	🧩 Aplicação
-Python	Intermediário	Scripts ofensivos e automação prática.
-Bash/Shell	Intermediário	Criação de ferramentas para simulações e controle de sistemas.
-Linux	Intermediário	Base para exploração e aprendizado técnico.
-Metasploit + Wireshark	Básico/Intermediário	Simulação de exploits e análise de tráfego em ambientes controlados.
-Docker + Kubernetes	Básico	Ambientes isolados para práticas e testes ofensivos.
-Arduino (IoT)	Intermediário	Integração hardware-software para projetos criativos.
+
+🌟 Ferramenta	⚡ Nível Atual	🔍 Aplicação
+Python + Bash Scripting	Intermediário	Criação de ferramentas para pentest, automação de processos ofensivos.
+Linux (CLI)	Intermediário	Ambiente principal para experimentação e aprendizado.
+Wireshark + Metasploit	Básico/Intermediário	Análise de tráfego e exploração controlada para aprendizado prático.
+Spring Boot + APIs	Básico	Desenvolvimento inicial de APIs com boas práticas.
+Docker + Kubernetes	Básico	Criação de ambientes isolados para testes e automação.
+Arduino + IoT Projects	Intermediário	Integração hardware-software com foco em projetos criativos e técnicos.
+
+---
+
+```bash
+carregando... [██████████████░░░] 85%
+```
 
 ---
 
@@ -55,10 +89,16 @@ Comunicação: Traduzo complexidade técnica para clareza, em qualquer nível
 
 ---
 
+```bash
+carregando... [██████████████░░░] 85%
+```
+
+---
+
 ## 🌌 Meus projetos em destaque
 
 ```bash
-carregando... [██████████████░░░] 85%
+./projetos_destaque.py
 ```
 
 1️⃣ Prova Interativa Red Team
@@ -79,10 +119,16 @@ Tecnologias: HTML, CSS, JavaScript.
 
 ---
 
+```bash
+carregando... [██████████████░░░] 85%
+```
+
+---
+
 ## 🚀 Próximos passos
 
 ```bash
-estrategia --mostrar-plano
+mkdir estrategia --mostrar-plano
 ```
 
 Certificações principais:
@@ -101,6 +147,12 @@ Automação de segurança: Scripts e ferramentas para análise e resposta.
 
 ---
 
+```bash
+carregando... [██████████████░░░] 85%
+```
+
+---
+
 🏆 Badges e conquistas
 
 ```bash
@@ -111,6 +163,12 @@ inserir links das badges
 
 ---
 
+```bash
+carregando... [██████████████░░░] 85%
+```
+
+---
+
 📜 Mensagem ao recrutador
 
 ```bash
@@ -118,4 +176,13 @@ inserir texto
 ```
 
 "Eu não sou apenas um candidato, sou uma oportunidade. Minha paixão por aprender e criar soluções é exatamente o que sua equipe precisa para encarar novos desafios. Vamos construir algo extraordinário juntos!"
+
+---
+
+```bash
+carregando... [██████████████░░░] 85%
+```
+---
+
+
 
