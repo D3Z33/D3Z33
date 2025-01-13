@@ -200,7 +200,7 @@ carregando... [░░░░░░░░░░░░░░░░░] 0%
 
 <br>
 
-### 3️⃣ **CyberOps: Captura de Credenciais ao Vivo**  
+### 3️⃣ **CyberOps: Captura de Credenciais**  
 > _Um desafio prático com foco na exploração ofensiva e coleta estratégica de informações._  
 
 - **Destaques:**  
@@ -294,9 +294,9 @@ Essas são as oficiais que precisou de 75% de assertividade na prova final.
 ┌──(D3Z33㉿Terminal)-[~/mensagem-final]
 └─$ ./inserir_mensagem.sh --decifrar
 
-~ >Você invadiu um espaço onde soluções são forjadas e desafios se tornam histórias. 
-~~  >Cada linha de código, cada projeto é uma peça do quebra-cabeça que constrói o futuro da cibersegurança.
-~~~  >Se você também busca impactar o mundo com de forma estratégica, talvez este seja apenas o início da nossa conexão.
+~ > Você invadiu um espaço onde soluções são forjadas e desafios se tornam histórias. 
+~~  > Cada linha de código, cada projeto é uma peça do quebra-cabeça que constrói o futuro da cibersegurança.
+~~~  > Se você também busca impactar o mundo com de forma estratégica, talvez este seja apenas o início da nossa conexão.
 ```
 
 <br>
@@ -307,11 +307,11 @@ sudo su echo "~~ Bem-vindo ao jogo! ~~"
 
 <br>
   
->echo "[✔] Criando soluções que antecipam ameaças."
+> echo "[✔] Criando soluções que antecipam ameaças."
 
->echo "[✔] Transformando desafios em oportunidades."
+> echo "[✔] Transformando desafios em oportunidades."
 
->echo "[✔] Explorando o próximo nível da cibersegurança.
+> echo "[✔] Explorando o próximo nível da cibersegurança.
 
 
 <br>
