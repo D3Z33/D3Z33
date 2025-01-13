@@ -266,7 +266,7 @@ Agora você sabe quais são meus planos... talvez eu deva corrigir essa vulnerab
 
 ---
 
-##🏆 Badges e conquistas
+## 🏆 Badges e conquistas
 
 ```bash
 ┌──(D3Z33㉿Terminal)-[~/badges-e-conquistas]
@@ -288,25 +288,22 @@ Essas são as oficiais que precisou de 75% de assertividade na prova final.
 
 ---
 
-📜 Mensagem ao recrutador
+## 📜 Mensagem de Gratificação Final
 
 ```bash
-inserir texto
-```
+┌──(D3Z33㉿Terminal)-[~/mensagem-final]
+└─$ ./inserir_mensagem.sh --decifrar
 
-"Eu não sou apenas um candidato, sou uma oportunidade. Minha paixão por aprender e criar soluções é exatamente o que sua equipe precisa para encarar novos desafios. Vamos construir algo extraordinário juntos!"
-
----
+Você invadiu um espaço onde soluções são forjadas e desafios se tornam histórias. Cada linha de código, cada projeto é uma peça do quebra-cabeça que constrói o futuro da cibersegurança. Se você também busca impactar o mundo com criatividade e estratégia, talvez este seja apenas o início da nossa conexão. Bem-vindo ao jogo!
 
 ```bash
 carregando... [███████████████████████████████] 100%
-Sistema pronto. Analisando vulnerabilidades...
+Sistema pronto. Analisando vulnerabilidades... ---->
 ```
----
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📈 Estatísticas do GitHub -----
 
 ```bash
 ┌──(D3Z33㉿Terminal)-[~/final]
