@@ -104,11 +104,13 @@ carregando... [██████████████████] 100%
 
 ---
 
+## 🌟 Minhas habilidades interpessoais (Soft Skills)
+
 ```bash
 ┌──(D3Z33㉿Terminal)-[~/soft-skills]
 └─$ sudo ./soft_skills.sh --ativar
 
-carregando... [█████████████░░░░] 75%
+carregando... [░░░░░░░░░░░░░░░░░] 0%
 
 📂 Carregando Habilidades Interpessoais:
 ├── 🛠️ Resiliência.............✔
