@@ -276,7 +276,7 @@ carregando... [░░░░░░░░░░░░░░░░░] 0%
 ```
 
 1. **[CCNA: Introduction to Networks](https://www.credly.com/badges/3d13559b-a972-4bce-8dcc-016ae38328cf/public_url)**  
-   ![Badge]([https://images.credly.com/size/150x150/images/3d13559b-a972-4bce-8dcc-016ae38328cf/image.png](https://drive.google.com/file/d/1a01nLA3tceKCGIUlF7l-bi-BVKAEAfhT/view?usp=drive_link)  
+   ![Badge](https://images.credly.com/size/150x150/images/3d13559b-a972-4bce-8dcc-016ae38328cf/image.png)
 
 2. **[CCNA: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/91cb0515-4fac-4c76-b24c-b77541ca7b92/public_url)**  
    ![Badge](https://images.credly.com/size/150x150/images/91cb0515-4fac-4c76-b24c-b77541ca7b92/image.png)  
