@@ -1,10 +1,7 @@
 ```bash
 ┌──(D3Z33㉿Terminal)-[~/ínicio]
 └─$ ⚠️ ACESSO CONCEDIDO: O LADO SOMBRIO, CONTROLADO. 👾
-
-```
-
-```bash                                                  
+                                             
                                                 ___     ___     ____    ___     ___   
                                                |   \   | __|   |_  /   | __|   | __|  
                                                | |) |  | _|     / /    | _|    | _|   
