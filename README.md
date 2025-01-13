@@ -15,7 +15,8 @@
 ## 🧑‍💻 Sobre mim
 
 ```bash
-cat sobre-mim.txt
+┌──(D3Z33㉿Terminal)-[~/sobre-mim]
+└─$ cat sobre-mim.txt
 ```
 <br>
 
@@ -23,26 +24,34 @@ cat sobre-mim.txt
 > _"A verdadeira segurança não é a ausência de ameaças, mas a capacidade de antecipá-las."_
 
 <br>
-🔭 Atualmente trabalhando em...
-Um projeto de Pentest Completo que simula o ciclo real de ataque e defesa.
-O desenvolvimento de um SOC Virtual, integrando automação defensiva e alertas inteligentes.
 
-🌱 Atualmente aprendendo...
-Certificação SYCP (Solyd Practical Pentest).
-eCPPT (Practical Professional Pentest).
-Técnicas avançadas em TryHackMe e Hack The Box.
+---
 
-👯 Busco colaborar em...
-Projetos de automação ofensiva e defensiva.
-Simulações de ataques e práticas de segurança cibernética.
+## 🔭 **Atualmente trabalhando em...**
+- **Pentest Completo:** Um projeto que simula todo o ciclo de ataque e defesa, explorando vulnerabilidades e soluções estratégicas.  
+- **SOC Virtual:** Desenvolvimento de um sistema de monitoramento automatizado com alertas inteligentes e respostas rápidas a ameaças.  
 
-💬 Pergunte-me sobre...
-Scripts para automação ofensiva em Python e Bash.
-Configuração de ambientes seguros com Linux e AD.
-Simulações de ataques para aprendizado prático.
 
-⚡ Curiosidade divertida...
-Adoro transformar problemas complexos em scripts simples que "parecem mágica".
+## 🌱 **Atualmente aprendendo...**
+- **SYCP (Solyd Practical Pentest):** Certificação prática com foco em exploração ofensiva.  
+- **eCPPT (Practical Professional Pentest):** Aperfeiçoando técnicas avançadas de pentest.  
+- **TryHackMe e Hack The Box:** Laboratórios contínuos para aprimorar habilidades em ataques reais e defesa estratégica.  
+
+
+## 👯 **Busco colaborar em...**
+- Projetos que integrem **automação ofensiva e defensiva**, criando soluções inovadoras.  
+- **Simulações realistas de ataques cibernéticos**, com foco em explorar e mitigar vulnerabilidades críticas.  
+
+
+## 💬 **Pergunte-me sobre...**
+- **Automação ofensiva:** Scripts em Python e Bash para criar ferramentas e processos ágeis.  
+- **Ambientes seguros:** Configuração e endurecimento de sistemas Linux, Active Directory e redes protegidas.  
+- **Cenários de ataque:** Técnicas e estratégias para simular ameaças reais e testar defesas.  
+
+
+## ⚡ **Curiosidade divertida...**
+- Tenho uma obsessão por transformar problemas complexos em scripts que parecem **mágicos**, mas são pura lógica bem aplicada.
+
 
 ---
 
