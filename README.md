@@ -33,6 +33,7 @@ carregando... [░░░░░░░░░░░░░░░░░] 0%
 
 - **SOC Virtual:** Desenvolvimento de um sistema de monitoramento automatizado com alertas inteligentes e respostas rápidas a ameaças.  
 
+<br>
 
 ## 🌱 **Atualmente aprendendo...**
 - **SYCP (Solyd Practical Pentest):** Certificação prática com foco em exploração ofensiva.
@@ -43,7 +44,7 @@ carregando... [░░░░░░░░░░░░░░░░░] 0%
    
 - **TryHackMe e Hack The Box:** Laboratórios contínuos para aprimorar habilidades em ataques reais e defesa estratégica.  
 
-
+<br>
 
 ## 👯 **Busco colaborar em...**
 - Projetos que integrem **automação ofensiva e defensiva**, criando soluções inovadoras.
@@ -51,7 +52,7 @@ carregando... [░░░░░░░░░░░░░░░░░] 0%
   
 - **Simulações realistas de ataques cibernéticos**, com foco em explorar e mitigar vulnerabilidades críticas.
   
-
+<br>
 
 ## 💬 **Pergunte-me sobre...**
 - **Automação ofensiva:** Scripts em Python e Bash para criar ferramentas e processos ágeis.
@@ -62,7 +63,7 @@ carregando... [░░░░░░░░░░░░░░░░░] 0%
    
 - **Cenários de ataque:** Técnicas e estratégias para simular ameaças reais e testar defesas.  
 
-
+<br>
 
 ## ⚡ **Curiosidade divertida...**
 - Tenho uma obsessão por transformar problemas complexos em scripts que parecem **mágicos**, mas são pura lógica bem aplicada.
