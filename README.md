@@ -25,7 +25,6 @@
 
 <br>
 
-
 ## 🔭 **Atualmente trabalhando em...**
 - **Pentest Completo:** Um projeto que simula todo o ciclo de ataque e defesa, explorando vulnerabilidades e soluções estratégicas.
 
@@ -34,28 +33,38 @@
 
 
 ## 🌱 **Atualmente aprendendo...**
-- **SYCP (Solyd Practical Pentest):** Certificação prática com foco em exploração ofensiva.  
-- **eCPPT (Practical Professional Pentest):** Aperfeiçoando técnicas avançadas de pentest.  
+- **SYCP (Solyd Practical Pentest):** Certificação prática com foco em exploração ofensiva.
+
+  
+- **eCPPT (Practical Professional Pentest):** Aperfeiçoando técnicas avançadas de pentest.
+
+   
 - **TryHackMe e Hack The Box:** Laboratórios contínuos para aprimorar habilidades em ataques reais e defesa estratégica.  
 
 
+
 ## 👯 **Busco colaborar em...**
-- Projetos que integrem **automação ofensiva e defensiva**, criando soluções inovadoras.  
-- **Simulações realistas de ataques cibernéticos**, com foco em explorar e mitigar vulnerabilidades críticas.  
+- Projetos que integrem **automação ofensiva e defensiva**, criando soluções inovadoras.
+
+  
+- **Simulações realistas de ataques cibernéticos**, com foco em explorar e mitigar vulnerabilidades críticas.
+- 
 
 
 ## 💬 **Pergunte-me sobre...**
-- **Automação ofensiva:** Scripts em Python e Bash para criar ferramentas e processos ágeis.  
-- **Ambientes seguros:** Configuração e endurecimento de sistemas Linux, Active Directory e redes protegidas.  
+- **Automação ofensiva:** Scripts em Python e Bash para criar ferramentas e processos ágeis.
+
+  
+- **Ambientes seguros:** Configuração e endurecimento de sistemas Linux, Active Directory e redes protegidas.
+
+   
 - **Cenários de ataque:** Técnicas e estratégias para simular ameaças reais e testar defesas.  
+
 
 
 ## ⚡ **Curiosidade divertida...**
 - Tenho uma obsessão por transformar problemas complexos em scripts que parecem **mágicos**, mas são pura lógica bem aplicada.
-
-
----
-
+<br>
 ```bash
 carregando... [███████████░░░░░░░] 70%
 ```
