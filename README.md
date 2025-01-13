@@ -72,7 +72,7 @@ carregando... [░░░░░░░░░░░░░░░░░] 0%
 ┌──(D3Z33㉿Terminal)-[~/sobre-mim]
 └─$ cat sobre-mim.txt
 
-carregando... [███████████░░░░░░░] 100%
+carregando... [██████████████████] 100%
 ```
 
 ---
@@ -87,22 +87,19 @@ carregando... [███████████░░░░░░░] 100%
 -rwxr-xr-x 1 D3Z33 admin  105 Jan 13 12:00 Linux-CLI.txt
 -rw------- 1 D3Z33 root   130 Jan 13 12:00 Wireshark-Metasploit.txt
 -rw-rw-r-- 1 D3Z33 dev    120 Jan 13 12:00 Spring-Boot-APIs.txt
--rwx------ 1 root   root  150 Jan 13 12:00 Docker-Kubernetes.txt
+-rwx------ 1 root  root  150 Jan 13 12:00 Docker-Kubernetes.txt
 -r--r----- 1 D3Z33 admin  140 Jan 13 12:00 Arduino-IoT-Projects.txt
 -rw-r--r-- 1 D3Z33 users  115 Jan 13 12:00 Active-Directory.txt
 -rw-rw-r-- 1 D3Z33 dev    125 Jan 13 12:00 Threat-Intelligence.txt
 -r--r--r-- 1 D3Z33 users  135 Jan 13 12:00 Vulnerability-Scanning.txt
 -rw-r--r-- 1 D3Z33 users  110 Jan 13 12:00 SIEM-Monitoring.txt
--rwxr-xr-- 1 root   dev   145 Jan 13 12:00 Penetration-Testing.txt
+-rwxr-xr-- 1 root  dev   145 Jan 13 12:00 Penetration-Testing.txt
 -rwx------ 1 D3Z33 admin  120 Jan 13 12:00 Incident-Response.txt
 -r--r----- 1 D3Z33 root   130 Jan 13 12:00 Network-Security.txt
 -rw------- 1 D3Z33 root   115 Jan 13 12:00 Firewall-Configuration.txt
 -rw-r--r-- 1 D3Z33 users  125 Jan 13 12:00 Endpoint-Security.txt
-```
----
 
-```bash
-carregando... [██████████████░░░] 85%
+carregando... [██████████████████] 100%
 ```
 
 ---
