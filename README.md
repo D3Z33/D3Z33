@@ -156,11 +156,30 @@ carregando... [░░░░░░░░░░░░░░░░░] 0%
 >_Um projeto educacional gamificado, simulando ataques em ambientes Windows Server._  
 >- **Destaques:** Temporizadores, ransomware educacional e relatórios.  
 >- **Tecnologias:** Python, Tkinter.  
+<br>
 
-### 2️⃣ Linux_Prova  
->_Um script interativo que ensina e simula práticas de administração Linux._  
->- **Destaques:** Automação ofensiva e camuflagem de malware.  
->- **Tecnologias:** Bash, Linux.  
+### 2️⃣ **Linux_Prova**  
+>_Simulação ofensiva e interativa no terminal Linux, unindo aprendizado prático e exploração de vulnerabilidades._
+
+**Descrição:**  
+>Um script interativo que simula uma prova técnica de múltipla escolha, enquanto camufla ações ofensivas como captura de credenciais, criptografia de dados e transmissão de informações sensíveis. O projeto exemplifica como scripts maliciosos podem explorar vulnerabilidades e confiança para comprometer sistemas.
+
+**Destaques:**  
+>- **Captura de Credenciais:** Simulação de coleta de senhas e dados de usuários de forma camuflada.  
+>- **Camuflagem de Ações:** Comandos críticos disfarçados como "backup" e "remoção de logs".  
+>- **Exfiltração de Dados:** Envio de informações sensíveis (IP, senhas, progresso) para servidores remotos e Telegram.  
+>- **Engenharia Social:** Criação de um ambiente seguro ilusório para explorar a confiança do usuário.  
+>- **Persistência e Permissões Elevadas:** Uso de privilégios elevados para executar ações críticas no sistema.  
+
+**Tecnologias:** Bash/ Shell, Linux.  
+
+📂 **Características:**  
+>- **Simulação de Ataques Reais:** Demonstra técnicas de engenharia social, camuflagem de comandos e exfiltração de dados frequentemente usadas por cibercriminosos.  
+>- **Ambiente Realista:** Prova interativa com perguntas técnicas de Linux, integrando ações ofensivas para ilustrar ameaças em tempo real.  
+>- **Dashboard em Tempo Real:** Permite o monitoramento do progresso dos usuários e dados capturados diretamente no terminal.  
+>- **Exemplo Prático de Riscos:** Evidencia a importância de validar scripts antes de execução e os perigos de permissões elevadas.  
+
+<br>
 
 ### 3️⃣ **CyberOps: Simulação de Captura de Credenciais**  
 > _Um desafio prático com foco na exploração ofensiva e coleta estratégica de informações._  
