@@ -146,29 +146,35 @@ Habilidades carregadas com sucesso.
 ## 🌌 Meus projetos em destaque
 
 ```bash
-./projetos_destaque.py
+```bash
+┌──(D3Z33㉿Terminal)-[~/projetos-destaque]
+└─$ ./projetos_destaque.py
+
+carregando... [░░░░░░░░░░░░░░░░░] 0%
+
 ```
 
-1️⃣ Prova Interativa Red Team
-Um projeto educacional gamificado, simulando ataques em ambientes Windows Server.
-
-Destaques: Temporizadores, ransomware educacional e relatórios.
-Tecnologias: Python, Tkinter.
-2️⃣ Linux_Prova
-Um script interativo que ensina e simula práticas de administração Linux.
-
-Destaques: Automação ofensiva e camuflagem de malware.
-Tecnologias: Bash, Linux.
-3️⃣ Página de Login Cyberpunk
-Uma interface futurista que une criatividade e funcionalidade.
-
-Destaques: Animações e captura de credenciais simulada.
-Tecnologias: HTML, CSS, JavaScript.
+### 1️⃣ Prova Interativa Red Team  
+_Um projeto educacional gamificado, simulando ataques em ambientes Windows Server._  
+- **Destaques:** Temporizadores, ransomware educacional e relatórios.  
+- **Tecnologias:** Python, Tkinter.  
 
 ---
 
+### 2️⃣ Linux_Prova  
+_Um script interativo que ensina e simula práticas de administração Linux._  
+- **Destaques:** Automação ofensiva e camuflagem de malware.  
+- **Tecnologias:** Bash, Linux.  
+
+---
+
+### 3️⃣ Página de Login Cyberpunk  
+_Uma interface futurista que une criatividade e funcionalidade._  
+- **Destaques:** Animações e captura de credenciais simulada.  
+- **Tecnologias:** HTML, CSS, JavaScript.  
+
 ```bash
-carregando... [██████████████░░░] 85%
+Processo concluído: [███████████████] 100%
 ```
 
 ---
