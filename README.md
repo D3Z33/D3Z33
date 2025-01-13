@@ -308,9 +308,9 @@ Carregando elementos essenciais...
 
   
 > echo "[✔] Criando soluções que antecipam ameaças."
-
+>
 > print "[✔] Transformando desafios em oportunidades."
-
+>
 > void "[✔] Explorando o próximo nível da cibersegurança.
 
 
