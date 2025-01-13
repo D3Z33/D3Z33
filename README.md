@@ -294,10 +294,18 @@ Essas são as oficiais que precisou de 75% de assertividade na prova final.
 ┌──(D3Z33㉿Terminal)-[~/mensagem-final]
 └─$ ./inserir_mensagem.sh --decifrar
 
->Você invadiu um espaço onde soluções são forjadas e desafios se tornam histórias. 
->Cada linha de código, cada projeto é uma peça do quebra-cabeça que constrói o futuro da cibersegurança.
->Se você também busca impactar o mundo com criatividade e estratégia, talvez este seja apenas o início da nossa conexão. Bem-vindo ao jogo!
+~ > Você invadiu um espaço onde soluções são forjadas e desafios se tornam histórias. 
+~~  >Cada linha de código, cada projeto é uma peça do quebra-cabeça que constrói o futuro da cibersegurança.
+~~~   >Se você também busca impactar o mundo com criatividade e estratégia, talvez este seja apenas o início da nossa conexão.
+```
 
+<br>
+
+echo ~~ Bem-vindo ao jogo!
+
+<br>
+
+```bash
 carregando... [███████████████████████████████] 100%
 Sistema pronto. Analisando vulnerabilidades...
 ```
