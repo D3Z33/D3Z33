@@ -48,7 +48,7 @@
 
   
 - **Simulações realistas de ataques cibernéticos**, com foco em explorar e mitigar vulnerabilidades críticas.
-- 
+  
 
 
 ## 💬 **Pergunte-me sobre...**
@@ -65,6 +65,7 @@
 ## ⚡ **Curiosidade divertida...**
 - Tenho uma obsessão por transformar problemas complexos em scripts que parecem **mágicos**, mas são pura lógica bem aplicada.
 <br>
+
 ```bash
 carregando... [███████████░░░░░░░] 70%
 ```
