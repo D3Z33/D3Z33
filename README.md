@@ -266,7 +266,7 @@ Agora você sabe quais são meus planos... talvez eu deva corrigir essa vulnerab
 
 ---
 
-🏆 Badges e conquistas
+##🏆 Badges e conquistas
 
 ```bash
 inserir texto para badges futuras
@@ -277,8 +277,27 @@ inserir links das badges
 ---
 
 ```bash
-carregando... [██████████████░░░] 85%
+┌──(D3Z33㉿Terminal)-[~/badges-e-conquistas]
+└─$ ./mostrar_badges.py
+
+carregando... [░░░░░░░░░░░░░░░░░] 0%
 ```
+
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3d13559b-a972-4bce-8dcc-016ae38328cf" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="91cb0515-4fac-4c76-b24c-b77541ca7b92" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7804fd49-516f-463d-9b0b-870c33c7fd34" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8383a0b1-eaaf-4824-8eda-cff2e5e293ce" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3d3260b5-e829-4b3c-ae96-adaae1f5fa9f" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ---
 
