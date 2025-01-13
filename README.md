@@ -87,13 +87,13 @@ carregando... [██████████████████] 100%
 -rwxr-xr-x 1 D3Z33 admin  105 Jan 13 12:00 Linux-CLI.txt
 -rw------- 1 D3Z33 root   130 Jan 13 12:00 Wireshark-Metasploit.txt
 -rw-rw-r-- 1 D3Z33 dev    120 Jan 13 12:00 Spring-Boot-APIs.txt
--rwx------ 1 root  root  150 Jan 13 12:00 Docker-Kubernetes.txt
+-rwx------ 1 root  root   150 Jan 13 12:00 Docker-Kubernetes.txt
 -r--r----- 1 D3Z33 admin  140 Jan 13 12:00 Arduino-IoT-Projects.txt
 -rw-r--r-- 1 D3Z33 users  115 Jan 13 12:00 Active-Directory.txt
 -rw-rw-r-- 1 D3Z33 dev    125 Jan 13 12:00 Threat-Intelligence.txt
 -r--r--r-- 1 D3Z33 users  135 Jan 13 12:00 Vulnerability-Scanning.txt
 -rw-r--r-- 1 D3Z33 users  110 Jan 13 12:00 SIEM-Monitoring.txt
--rwxr-xr-- 1 root  dev   145 Jan 13 12:00 Penetration-Testing.txt
+-rwxr-xr-- 1 root  dev    145 Jan 13 12:00 Penetration-Testing.txt
 -rwx------ 1 D3Z33 admin  120 Jan 13 12:00 Incident-Response.txt
 -r--r----- 1 D3Z33 root   130 Jan 13 12:00 Network-Security.txt
 -rw------- 1 D3Z33 root   115 Jan 13 12:00 Firewall-Configuration.txt
@@ -104,22 +104,39 @@ carregando... [██████████████████] 100%
 
 ---
 
-## 🌟 Minhas habilidades interpessoais (Soft Skills)
-
 ```bash
-soft_skills.sh --executar
-```
+┌──(D3Z33㉿Terminal)-[~/soft-skills]
+└─$ sudo ./soft_skills.sh --ativar
 
-Resiliência: Sempre vejo os erros como uma oportunidade de aprendizado prático.
-Criatividade: Adapto soluções técnicas de formas inesperadas.
-Colaboração: Trabalho bem em equipe, trazendo ideias inovadoras para o time.
-Pensamento estratégico: Abordo problemas com visão clara de impacto.
-Comunicação: Traduzo complexidade técnica para clareza, em qualquer nível
+carregando... [█████████████░░░░] 75%
 
----
+📂 Carregando Habilidades Interpessoais:
+├── 🛠️ Resiliência.............✔
+├── 🎨 Criatividade............✔
+├── 🤝 Colaboração.............✔
+├── 🧠 Pensamento Estratégico..✔
+├── 🗣️ Comunicação.............✔
+├── 🚀 Proatividade............✔
+├── 🔍 Atenção aos Detalhes....✔
+├── ⏱️ Gestão de Tempo..........✔
+├── 🌍 Adaptabilidade..........✔
+├── 🎯 Foco em Resultados......✔
 
-```bash
-carregando... [██████████████░░░] 85%
+📂 Iniciando aplicação:
+01. Resiliência:              Transformo falhas em aprendizado e avanço constante.
+02. Criatividade:             Adapto soluções técnicas com abordagens inovadoras.
+03. Colaboração:              Trabalho em equipe, conectando ideias e pessoas.
+04. Pensamento Estratégico:   Planejo ações com impacto máximo.
+05. Comunicação:              Torno o complexo acessível para qualquer público.
+06. Proatividade:             Antecipação é a chave para mitigar riscos.
+07. Atenção aos Detalhes:     Pequenos ajustes fazem toda a diferença.
+08. Gestão de Tempo:          Entrego qualidade sem comprometer prazos.
+09. Adaptabilidade:           Me ajusto rapidamente a novos cenários e desafios.
+10. Foco em Resultados:       Mantenho os objetivos claros e alcançáveis.
+
+Processo concluído: [███████████████] 100%
+Habilidades carregadas com sucesso.
+
 ```
 
 ---
