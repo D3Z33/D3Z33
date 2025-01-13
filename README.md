@@ -222,7 +222,7 @@ carregando... [░░░░░░░░░░░░░░░░░] 0%
 
 ```bash
 Processo concluído: [███████████████] 100%
-Processo concluído, projetos destaque que me fizeram chegar até você!
+Etapa carregada, projetos destaque que me fizeram chegar até você!
 ```
 
 ---
@@ -241,20 +241,21 @@ carregando... [░░░░░░░░░░░░░░░░░] 0%
 >- **eCPPT (Certified Professional Penetration Tester):** Habilidades avançadas para planejamento, execução e documentação de ataques.  
 >- **TryHackMe e Hack The Box:** Trilhas contínuas para aprimorar técnicas ofensivas e defensivas em ambientes simulados.  
 
-
+<br>
 
 💻 **Infraestrutura Pessoal:**  
 >- Construção de um laboratório próprio para práticas avançadas de cibersegurança e simulações ofensivas.  
 >- Configuração de rede com **firewalls, VPN, proxy** e servidor próprio para garantir segurança e eficiência em trabalho remoto.  
 >- Ambiente isolado e seguro para testes de automação defensiva e resposta a incidentes.  
 
-
+<br>
 
 🛠️ **Projetos Futuramente Ativos:**  
 >- **Pentest Completo:** Simulação ponta a ponta de um ciclo real de ataque e defesa.  
 >- **SOC Virtual:** Sistema automatizado de monitoramento e resposta a ameaças, com alertas dinâmicos.  
 >- **Automação de Segurança:** Scripts inteligentes para análise de vulnerabilidades e resposta a incidentes.  
 
+<br>
 
 ```bash
 Processo concluído: [███████████████] 100%
