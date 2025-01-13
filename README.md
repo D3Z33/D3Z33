@@ -152,10 +152,28 @@ Habilidades carregadas com sucesso.
 carregando... [░░░░░░░░░░░░░░░░░] 0%
 ```
 
-### 1️⃣ Prova Interativa Red Team  
->_Um projeto educacional gamificado, simulando ataques em ambientes Windows Server._  
->- **Destaques:** Temporizadores, ransomware educacional e relatórios.  
->- **Tecnologias:** Python, Tkinter.  
+### 1️⃣ **Prova - Red Team**  
+>_Simulação ofensiva completa em ambientes Windows Server, explorando técnicas avançadas de ataque e defesa._
+
+**Descrição:**  
+>Um projeto de cenários reais de cibersegurança, incluindo escalada de privilégios, persistência e execução de ações ofensivas. O sistema combina elementos interativos com ataques camuflados, testando as vulnerabilidades do ambiente e as capacidades de resposta do alvo.
+
+**Destaques:**  
+>- **Temporizadores Dinâmicos:** Controle de tempo para cada etapa do ataque, simulando pressão em cenários reais.  
+>- **Ransomware:** Simulação de comportamento de ransomware, com criptografia de arquivos e mensagens de resgate.  
+>- **Relatórios Detalhados:** Geração de logs sobre o impacto das ações executadas, incluindo caminhos de arquivos e resultados do ataque.  
+>- **Camuflagem Avançada:** Ações ofensivas ocultas em processos comuns, simulando técnicas reais de invasão e persistência.  
+>- **Monitoramento e Automação:** Relatórios enviados automaticamente para servidores remotos ou dispositivos específicos, simulando exfiltração de dados.  
+
+**Tecnologias:** Python, Tkinter.
+
+📂 **Características:**  
+>- **Simulação Realista:** Recria ataques comuns em ambientes corporativos, como movimentação lateral, escalada de privilégios e persistência.  
+>- **Exfiltração de Dados:** Coleta e envio de informações sensíveis, como IPs e credenciais, para servidores remotos.  
+>- **Criação de Arquivos Maliciosos:** Gera arquivos executáveis e logs explicativos, ilustrando as consequências das ações.  
+>- **Engenharia de Persistência:** Modificação de configurações críticas, como renomear o Windows Explorer, para simular controle prolongado do sistema.  
+>- **Impacto Total:** Integra técnicas de ataque em um ambiente controlado para demonstrar vulnerabilidades e explorar comportamentos de defesa.  
+
 <br>
 
 ### 2️⃣ **Linux_Prova**  
@@ -181,7 +199,7 @@ carregando... [░░░░░░░░░░░░░░░░░] 0%
 
 <br>
 
-### 3️⃣ **CyberOps: Simulação de Captura de Credenciais**  
+### 3️⃣ **CyberOps: Captura de Credenciais ao Vivo**  
 > _Um desafio prático com foco na exploração ofensiva e coleta estratégica de informações._  
 
 - **Destaques:**  
@@ -198,7 +216,8 @@ carregando... [░░░░░░░░░░░░░░░░░] 0%
 
 🔧 **Aplicações Práticas:**  
 >Este desafio destaca habilidades em engenharia social ofensiva e simulação de ataques, proporcionando uma visão prática de como vulnerabilidades podem ser exploradas em ambientes reais.
- <br>
+
+<br>
 
 ```bash
 Processo concluído: [███████████████] 100%
