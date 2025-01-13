@@ -301,12 +301,12 @@ Essas são as oficiais que precisou de 75% de assertividade na prova final.
 
 <br>
 
-            sudo su echo "~~ Bem-vindo ao jogo! ~~"
-            
-            # Carregando elementos essenciais...
-            echo "[✔] Criando soluções que antecipam ameaças."
-            echo "[✔] Transformando desafios em oportunidades."
-            echo "[✔] Explorando o próximo nível da cibersegurança.
+  sudo su echo "~~ Bem-vindo ao jogo! ~~"
+          
+  # Carregando elementos essenciais...
+   echo "[✔] Criando soluções que antecipam ameaças."
+    echo "[✔] Transformando desafios em oportunidades."
+     echo "[✔] Explorando o próximo nível da cibersegurança.
 
 <br>
 
