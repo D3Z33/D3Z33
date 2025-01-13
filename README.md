@@ -73,6 +73,7 @@ carregando... [░░░░░░░░░░░░░░░░░] 0%
 └─$ cat sobre-mim.txt
 
 carregando... [██████████████████] 100%
+Isso foi apenas a introdução... continue para saber mais rsrsrs
 ```
 
 ---
@@ -152,7 +153,7 @@ Habilidades carregadas com sucesso.
 carregando... [░░░░░░░░░░░░░░░░░] 0%
 ```
 
-### 1️⃣ **Prova - Red Team**  
+### 1️⃣ **Prova - Windows Server**  
 >_Simulação ofensiva completa em ambientes Windows Server, explorando técnicas avançadas de ataque e defesa._
 
 **Descrição:**  
@@ -176,7 +177,7 @@ carregando... [░░░░░░░░░░░░░░░░░] 0%
 
 <br>
 
-### 2️⃣ **Linux_Prova**  
+### 2️⃣ **Prova - Linux**  
 >_Simulação ofensiva e interativa no terminal Linux, unindo aprendizado prático e exploração de vulnerabilidades._
 
 **Descrição:**  
@@ -221,6 +222,7 @@ carregando... [░░░░░░░░░░░░░░░░░] 0%
 
 ```bash
 Processo concluído: [███████████████] 100%
+Processo concluído, projetos destaque que me fizeram chegar até você!
 ```
 
 ---
@@ -228,27 +230,35 @@ Processo concluído: [███████████████] 100%
 ## 🚀 Próximos passos
 
 ```bash
-mkdir estrategia --mostrar-plano
+┌──(D3Z33㉿Terminal)-[~/estrategia]
+└─$ mkdir estrategia && ./mostrar_plano.sh
+
+carregando... [░░░░░░░░░░░░░░░░░] 0%
 ```
 
-Certificações principais:
+🎯 **Certificações Estratégicas:**  
+>- **SYCP (Solyd Practical Pentest):** Domínio prático em pentest ofensivo, com foco em exploração e escalada de privilégios.  
+>- **eCPPT (Certified Professional Penetration Tester):** Habilidades avançadas para planejamento, execução e documentação de ataques.  
+>- **TryHackMe e Hack The Box:** Trilhas contínuas para aprimorar técnicas ofensivas e defensivas em ambientes simulados.  
 
-SYCP: Certificação prática em pentest ofensivo.
-eCPPT: Consolidar habilidades avançadas em cibersegurança.
-TryHackMe e Hack The Box: Trilhas e certificados de aprendizado contínuo.
-Infraestrutura pessoal:
 
-Configurar rede doméstica com firewall, VPN, proxy, e servidor para estudos e práticas remotas.
-Projetos futuros:
 
-Pentest Completo: Simulação ponta a ponta.
-SOC Virtual: Automação defensiva com monitoramento e alertas.
-Automação de segurança: Scripts e ferramentas para análise e resposta.
+💻 **Infraestrutura Pessoal:**  
+>- Construção de um laboratório próprio para práticas avançadas de cibersegurança e simulações ofensivas.  
+>- Configuração de rede com **firewalls, VPN, proxy** e servidor próprio para garantir segurança e eficiência em trabalho remoto.  
+>- Ambiente isolado e seguro para testes de automação defensiva e resposta a incidentes.  
 
----
+
+
+🛠️ **Projetos Futuramente Ativos:**  
+>- **Pentest Completo:** Simulação ponta a ponta de um ciclo real de ataque e defesa.  
+>- **SOC Virtual:** Sistema automatizado de monitoramento e resposta a ameaças, com alertas dinâmicos.  
+>- **Automação de Segurança:** Scripts inteligentes para análise de vulnerabilidades e resposta a incidentes.  
+
 
 ```bash
-carregando... [██████████████░░░] 85%
+Processo concluído: [███████████████] 100%
+Agora você sabe quais são meus planos... talvez eu deva corrigir essa vulnerabilidade?
 ```
 
 ---
