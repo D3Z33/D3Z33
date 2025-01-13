@@ -25,10 +25,11 @@
 
 <br>
 
----
 
 ## 🔭 **Atualmente trabalhando em...**
-- **Pentest Completo:** Um projeto que simula todo o ciclo de ataque e defesa, explorando vulnerabilidades e soluções estratégicas.  
+- **Pentest Completo:** Um projeto que simula todo o ciclo de ataque e defesa, explorando vulnerabilidades e soluções estratégicas.
+
+
 - **SOC Virtual:** Desenvolvimento de um sistema de monitoramento automatizado com alertas inteligentes e respostas rápidas a ameaças.  
 
 
