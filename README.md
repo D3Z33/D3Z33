@@ -17,9 +17,10 @@
 ```bash
 cat sobre-mim.txt
 ```
-<br>
+
 > 💀 **D3Z33: Explorador de vulnerabilidades, criador de soluções** 👾  
 > _"A verdadeira segurança não é a ausência de ameaças, mas a capacidade de antecipá-las."_
+
 <br>
 🔭 Atualmente trabalhando em...
 Um projeto de Pentest Completo que simula o ciclo real de ataque e defesa.
