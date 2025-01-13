@@ -167,7 +167,7 @@ carregando... [░░░░░░░░░░░░░░░░░] 0%
 >- **Camuflagem Avançada:** Ações ofensivas ocultas em processos comuns, simulando técnicas reais de invasão e persistência.  
 >- **Monitoramento e Automação:** Relatórios enviados automaticamente para servidores remotos ou dispositivos específicos, simulando exfiltração de dados.  
 
-**Tecnologias:** Python, Tkinter.
+- **Tecnologias:** Python, Tkinter.
 
 📂 **Características:**  
 >- **Simulação Realista:** Recria ataques comuns em ambientes corporativos, como movimentação lateral, escalada de privilégios e persistência.  
@@ -191,7 +191,7 @@ carregando... [░░░░░░░░░░░░░░░░░] 0%
 >- **Engenharia Social:** Criação de um ambiente seguro ilusório para explorar a confiança do usuário.  
 >- **Persistência e Permissões Elevadas:** Uso de privilégios elevados para executar ações críticas no sistema.  
 
-**Tecnologias:** Bash/ Shell, Linux.  
+- **Tecnologias:** Bash/ Shell, Linux.  
 
 📂 **Características:**  
 >- **Simulação de Ataques Reais:** Demonstra técnicas de engenharia social, camuflagem de comandos e exfiltração de dados frequentemente usadas por cibercriminosos.  
@@ -207,12 +207,12 @@ carregando... [░░░░░░░░░░░░░░░░░] 0%
 **Descrição:**   
 >Este desafio destaca habilidades em engenharia social ofensiva e simulação de ataques, proporcionando uma visão prática de como vulnerabilidades podem ser exploradas em ambientes reais.
 
-- **Destaques:**  
+**Destaques:**  
 >  - Captura simulada de credenciais e dados do usuário (nome de usuário, senha, IP e navegador).  
 >  - Efeitos visuais e interatividade para engajar o alvo e simular situações reais.  
 >  - Integração de scripts para armazenar e monitorar os dados em tempo real.  
 
-**Tecnologias:** HTML, CSS, JavaScript, PHP e WireShark.  
+- **Tecnologias:** HTML, CSS, JavaScript, PHP e WireShark.  
 
 📂 **Características:**  
 >- **Coleta Estratégica:** Captura de credenciais e metadados, como IP e User-Agent, armazenados para análise posterior.  
