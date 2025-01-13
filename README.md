@@ -162,10 +162,24 @@ carregando... [░░░░░░░░░░░░░░░░░] 0%
 >- **Destaques:** Automação ofensiva e camuflagem de malware.  
 >- **Tecnologias:** Bash, Linux.  
 
-### 3️⃣ Página de Login Cyberpunk  
->_Uma interface futurista que une criatividade e funcionalidade._  
->- **Destaques:** Animações e captura de credenciais simulada.  
->- **Tecnologias:** HTML, CSS, JavaScript.  
+### 3️⃣ **CyberOps: Simulação de Captura de Credenciais**  
+> _Um desafio prático com foco na exploração ofensiva e coleta estratégica de informações._  
+
+- **Destaques:**  
+  - Captura simulada de credenciais e dados do usuário (nome de usuário, senha, IP e navegador).  
+  - Efeitos visuais e interatividade para engajar o alvo e simular situações reais.  
+  - Integração de scripts para armazenar e monitorar os dados em tempo real.  
+
+- **Tecnologias:** HTML, CSS, JavaScript, PHP.  
+
+📂 **Características Ofensivas:**  
+- **Coleta Estratégica:** Captura de credenciais e metadados, como IP e User-Agent, armazenados para análise posterior.  
+- **Simulação Realista:** Recriação de uma página de login com visual convincente e interatividade, projetada para explorar comportamentos comuns de usuários.  
+- **Monitoramento Dinâmico:** Uso de scripts para monitorar os dados capturados em tempo real via terminal, permitindo análise imediata.  
+
+🔧 **Aplicações Práticas:**  
+Este desafio destaca habilidades em engenharia social ofensiva e simulação de ataques, proporcionando uma visão prática de como vulnerabilidades podem ser exploradas em ambientes reais.
+ 
 
 ```bash
 Processo concluído: [███████████████] 100%
