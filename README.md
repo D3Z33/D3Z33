@@ -275,23 +275,25 @@ Agora você sabe quais são meus planos... talvez eu deva corrigir essa vulnerab
 carregando... [░░░░░░░░░░░░░░░░░] 0%
 ```
 
-1. **[CCNA: Introduction to Networks](https://www.credly.com/badges/3d13559b-a972-4bce-8dcc-016ae38328cf/public_url)**  
-   ![Badge](https://images.credly.com/size/150x150/images/3d13559b-a972-4bce-8dcc-016ae38328cf/image.png)
-
-2. **[CCNA: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/91cb0515-4fac-4c76-b24c-b77541ca7b92/public_url)**  
-   ![Badge](https://images.credly.com/size/150x150/images/91cb0515-4fac-4c76-b24c-b77541ca7b92/image.png)  
-
-3. **[CCNA: Enterprise Networking, Security, and Automation](https://www.credly.com/badges/7804fd49-516f-463d-9b0b-870c33c7fd34/public_url)**  
-   ![Badge](https://images.credly.com/size/150x150/images/7804fd49-516f-463d-9b0b-870c33c7fd34/image.png)  
-
-4. **[CyberOps Associate](https://www.credly.com/badges/8383a0b1-eaaf-4824-8eda-cff2e5e293ce/public_url)**  
-   ![Badge](https://images.credly.com/size/150x150/images/8383a0b1-eaaf-4824-8eda-cff2e5e293ce/image.png)  
-
-5. **[Network Security](https://www.credly.com/badges/3d3260b5-e829-4b3c-ae96-adaae1f5fa9f/public_url)**  
-   ![Badge](https://images.credly.com/size/150x150/images/3d3260b5-e829-4b3c-ae96-adaae1f5fa9f/image.png)  
+>1. **[CCNA: Introduction to Networks](https://www.credly.com/badges/3d13559b-a972-4bce-8dcc-016ae38328cf/public_url)**  
 
 
+>2. **[CCNA: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/91cb0515-4fac-4c76-b24c-b77541ca7b92/public_url)**  
+   
 
+>3. **[CCNA: Enterprise Networking, Security, and Automation](https://www.credly.com/badges/7804fd49-516f-463d-9b0b-870c33c7fd34/public_url)**  
+   
+
+>4. **[CyberOps Associate](https://www.credly.com/badges/8383a0b1-eaaf-4824-8eda-cff2e5e293ce/public_url)**  
+   
+
+>5. **[Network Security](https://www.credly.com/badges/3d3260b5-e829-4b3c-ae96-adaae1f5fa9f/public_url)**  
+   
+
+```bash
+Processo concluído: [███████████████] 100%
+Essas são as oficiais que precisou de 75% de assertividade na prova final.
+```
 
 ---
 
