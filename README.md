@@ -313,6 +313,7 @@ sudo su echo "~~ Bem-vindo ao jogo! ~~"
 
 >echo "[✔] Explorando o próximo nível da cibersegurança.
 
+
 <br>
 
 ```bash
@@ -329,6 +330,13 @@ Sistema pronto. Analisando vulnerabilidades...
 ```bash
 ┌──(D3Z33㉿Terminal)-[~/final]
 └─$ echo "A inovação começa com uma linha de código."
+
+└─$ sudo echo "Inicializando sistema..." && sleep 2
+└─$ sudo echo "Conexão estabelecida com o servidor..." && sleep 1
+└─$ sudo echo "[✔] Ambiente seguro configurado... ou não ?"
+
+echo "[⚡] Pronto para redefinir os limites da cibersegurança."
+
 ```
 
 
