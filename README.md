@@ -307,9 +307,11 @@ sudo su echo "~~ Bem-vindo ao jogo! ~~"
 Carregando elementos essenciais...
 
   
-> echo "[✔] Criando soluções que antecipam ameaças." 
-> echo "[✔] Transformando desafios em oportunidades." 
-> echo "[✔] Explorando o próximo nível da cibersegurança.
+> echo "[✔] Criando soluções que antecipam ameaças."
+
+> print "[✔] Transformando desafios em oportunidades."
+
+> void "[✔] Explorando o próximo nível da cibersegurança.
 
 
 <br>
