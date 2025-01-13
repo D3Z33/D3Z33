@@ -236,6 +236,8 @@ Etapa carregada, projetos destaque que me fizeram chegar até você!
 carregando... [░░░░░░░░░░░░░░░░░] 0%
 ```
 
+<br>
+
 🎯 **Certificações Estratégicas:**  
 >- **SYCP (Solyd Practical Pentest):** Domínio prático em pentest ofensivo, com foco em exploração e escalada de privilégios.  
 >- **eCPPT (Certified Professional Penetration Tester):** Habilidades avançadas para planejamento, execução e documentação de ataques.  
@@ -254,8 +256,8 @@ carregando... [░░░░░░░░░░░░░░░░░] 0%
 >- **Pentest Completo:** Simulação ponta a ponta de um ciclo real de ataque e defesa.  
 >- **SOC Virtual:** Sistema automatizado de monitoramento e resposta a ameaças, com alertas dinâmicos.  
 >- **Automação de Segurança:** Scripts inteligentes para análise de vulnerabilidades e resposta a incidentes.  
-
 <br>
+
 
 ```bash
 Processo concluído: [███████████████] 100%
