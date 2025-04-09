@@ -1,7 +1,7 @@
 ```bash
 ┌──(D3Z33㉿Terminal)-[~/inicio]
 └─$ whoami
-renan.rocha | cybersecurity analyst
+reis.renan | cybersecurity analyst | D3Z33
 ```
 
 ---
