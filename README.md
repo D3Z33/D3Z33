@@ -6,6 +6,14 @@ reis.renan | cybersecurity analyst | D3Z33
 
 ---
 
+## 📈 GitHub Stats
+
+![D3Z33 GitHub Stats](https://github-readme-stats.vercel.app/api?username=D3Z33&show_icons=true&theme=gruvbox&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3Z33&layout=compact&theme=gruvbox&hide_border=true)
+
+---
+
 ## 🧭 Visão Profissional
 
 Atuo com foco em **monitoramento, análise e resposta a incidentes**. Tenho experiência real em ambientes SOC (Security Operation Center), com domínio sobre ferramentas e práticas que ajudam empresas a identificar riscos e responder a ameaças de forma ágil e responsável.
@@ -64,13 +72,6 @@ Com base em metodologia, raciocínio lógico e empatia técnica, busco **clareza
 
 ---
 
-## 📈 GitHub Stats
-
-![D3Z33 GitHub Stats](https://github-readme-stats.vercel.app/api?username=D3Z33&show_icons=true&theme=gruvbox&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3Z33&layout=compact&theme=gruvbox&hide_border=true)
-
----
 
 ## 🌐 Portfólios
 
