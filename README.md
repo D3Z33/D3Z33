@@ -3,6 +3,9 @@
 └─$ whoami
 reis.renan | cybersecurity analyst | D3Z33
 ```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=00FF00&center=true&vCenter=true&width=500&lines=Welcome+my+profile+|+D3Z33's;SOC+Analyst+by+day%2C+Red+Team+by+night;Automating+my+way+into+your+logs;Yes%2C+I+read+Sysmon+for+fun.;Engineer+of+cyber+chaos+%7C+order+restorer" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -76,20 +79,22 @@ Com base em metodologia, raciocínio lógico e empatia técnica, busco **clareza
 - Cisco CyberOps Associate  
 - CCST Cybersecurity – Cisco  
 - SOC Analyst N1 & N2 – TryHackMe  
-- Analista SOC – IBSec  
+- SOC Analyst – IBSec  
 - Pentester – IBSec  
 - MCBTA – Multi-Cloud Blue Team Analyst (CWL)  
-- 🔜 *(SYCP, SYES, CWL - C3SA ° CPIA ° CRTA ° CRT-ID ° CRT-COI ° MCRTA ° CCSE)*
+- 🔜 *(SOLYD - SYCP ° SYES  |  CWL - C3SA ° CPIA ° CRTA ° CRT-ID ° CRT-COI ° MCRTA ° CCSE)*
 
 ---
 
+## 🌐 Portfólios & Certificações
 
-## 🌐 Portfólios
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-D3Z33-EC1C24?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/D3Z33)
 
-- [LinkedIn](https://linkedin.com/in/renanreis-ciber)
-- [Credly](https://www.credly.com/users/renan-rocha-dos-reis)  
-- [GitHub](https://github.com/D3Z33)  
-- [TryHackMe](https://tryhackme.com/p/D3Z33)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D3Z33-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renanreis-ciber)
+
+[![GitHub](https://img.shields.io/badge/GitHub-D3Z33-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D3Z33)
+
+[![Credly](https://img.shields.io/badge/Badges-Credly-F36D25?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/renan-rocha-dos-reis)
 
 ---
 
