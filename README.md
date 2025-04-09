@@ -36,7 +36,7 @@ Com base em metodologia, raciocínio lógico e empatia técnica, busco **clareza
 
 ---
 
-## 💬 Soft Skills que fazem diferença
+## 💬 Soft Skills
 
 ```bash
 ┌──(D3Z33㉿Terminal)-[~/profile]
