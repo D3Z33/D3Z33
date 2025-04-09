@@ -8,9 +8,20 @@ reis.renan | cybersecurity analyst | D3Z33
 
 ## 📈 GitHub Stats
 
-![D3Z33 GitHub Stats](https://github-readme-stats.vercel.app/api?username=D3Z33&show_icons=true&theme=gruvbox&hide_border=true)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3Z33&layout=compact&theme=gruvbox&hide_border=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=D3Z33&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3Z33&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
