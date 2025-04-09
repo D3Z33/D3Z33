@@ -11,19 +11,23 @@ reis.renan | cybersecurity analyst | D3Z33
 
 ## 📈 GitHub Stats
 
+<!-- HUD Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=18&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=480&lines=⌛+Loading+Cyber+Engineering+...;🔍+Initializing+HUD+Scan" alt="Typing SVG" />
+</p>
+
+<!-- GitHub Stats Table -->
 <div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=D3Z33&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3Z33&layout=compact&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
+  <table style="border: none;">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=D3Z33&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&count_private=true&custom_title=🧠+Activity+Overview" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3Z33&layout=compact&theme=tokyonight&hide_border=true&card_width=300&custom_title=📊+Languages+in+Use" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
