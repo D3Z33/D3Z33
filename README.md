@@ -11,11 +11,6 @@ reis.renan | cybersecurity analyst | D3Z33
 
 ## 📈 GitHub Stats
 
-<!-- HUD Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=18&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=480&lines=⌛+Loading+Cyber+Engineering+...;🔍+Initializing+HUD+Scan" alt="Typing SVG" />
-</p>
-
 <!-- GitHub Stats Table -->
 <div align="center">
   <table style="border: none;">
