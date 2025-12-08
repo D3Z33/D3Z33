@@ -1,25 +1,38 @@
 ```bash
 ┌──(D3Z33㉿Terminal)-[~/inicio]
 └─$ whoami
-reis.renan | cybersecurity analyst | D3Z33
+R.Reis (D3Z33) — Offensive Security | Red Team & Cloud Security
 ```
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=00FF00&center=true&vCenter=true&width=500&lines=Welcome+my+profile+|+D3Z33's;SOC+Analyst+by+day%2C+Red+Team+by+night;Automating+my+way+into+your+logs;Yes%2C+I+read+Sysmon+for+fun.;Engineer+of+cyber+chaos+%7C+order+restorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=00FF00&center=true&vCenter=true&width=650&lines=Seguran%C3%A7a+Ofensiva+%7C+Cloud+%7C+Automa%C3%A7%C3%A3o;Pentest+em+ambientes+reais+e+multi-cloud;Desenvolvimento+de+ferramentas+para+seguran%C3%A7a;Traduzindo+vulnerabilidades+em+risco+de+neg%C3%B3cio" alt="Typing SVG" />
 </p>
+
+---
+
+## 🧭 Sobre mim
+
+Profissional de **Segurança Ofensiva e Cloud**, atuando com **pentest, automação e análise de risco** em ambientes reais.
+Trabalho com **aplicações, APIs, redes internas, Wi-Fi e arquiteturas multi-cloud**, sempre com foco em três pontos:
+
+* entender com clareza o cenário técnico,
+* avaliar o impacto real para o negócio,
+* propor caminhos de melhoria viáveis e sustentáveis.
+
+Gosto de construir soluções com calma, método e responsabilidade, seja explorando vulnerabilidades, seja desenvolvendo ferramentas internas para facilitar o dia a dia de segurança.
 
 ---
 
 ## 📈 GitHub Stats
 
-<!-- GitHub Stats Table -->
 <div align="center">
   <table style="border: none;">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=D3Z33&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&count_private=true&custom_title=🧠+Activity+Overview" />
+        <img src="https://github-readme-stats.vercel.app/api?username=D3Z33&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&count_private=true" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3Z33&layout=compact&theme=tokyonight&hide_border=true&card_width=300&custom_title=📊+Languages+in+Use" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3Z33&layout=compact&theme=tokyonight&hide_border=true&card_width=300" />
       </td>
     </tr>
   </table>
@@ -27,33 +40,66 @@ reis.renan | cybersecurity analyst | D3Z33
 
 ---
 
-## 🧭 Visão Profissional
+## 🔎 O que eu faço hoje
 
-Atuo com foco em **monitoramento, análise e resposta a incidentes**. Tenho experiência real em ambientes SOC (Security Operation Center), com domínio sobre ferramentas e práticas que ajudam empresas a identificar riscos e responder a ameaças de forma ágil e responsável.
+```bash
+┌──(D3Z33㉿Terminal)-[~/work]
+└─$ cat atuacao-atual.txt
+```
 
-Com base em metodologia, raciocínio lógico e empatia técnica, busco **clareza em meio ao ruído digital.**
+* **Segurança Ofensiva / Pentest**
+
+  * Testes de intrusão em **aplicações web, APIs, redes internas, Wi-Fi e ambientes multi-cloud** (AWS, Azure, GCP).
+  * Cenários **black, grey e white box**, com exploração, PoC e documentação completa.
+  * Referências constantes a **OWASP Top 10, API Security Top 10, MITRE ATT&CK, ISO 27001 e LGPD**.
+
+* **Cloud & Arquitetura**
+
+  * Avaliação de **exposição, identidade, permissões, rede e serviços** em cloud e ambientes híbridos.
+  * Uso de logs e telemetria para entender comportamento, superfícies expostas e riscos.
+
+* **Automações e ferramentas internas**
+
+  * Desenvolvimento de **scripts, APIs e painéis** para organizar ativos, vulnerabilidades e evidências.
+  * Criação de rotinas que reduzem trabalho manual em pentest e melhoram a visibilidade para o time.
+
+* **Relatórios e comunicação**
+
+  * Elaboração de **relatórios técnicos e executivos**, com foco em clareza, contexto e priorização.
+  * Explicação de cenário, vetor de ataque, impacto e recomendações de mitigação para times técnicos, gestores e área comercial.
 
 ---
 
-## 🛡️ Principais Competências Técnicas
+## 🛠️ Hard Skills
 
 ```bash
 ┌──(D3Z33㉿Terminal)-[~/skills]
 └─$ ls hard-skills.txt
 ```
 
-- 🛰️ **Monitoramento de Segurança (SIEM):** Wazuh, Splunk, Azure Sentinel  
-- 🔍 **Análise de Eventos e Logs:** Sysmon, Event Viewer, CloudTrail, Suricata  
-- 💣 **Identificação de Indicadores de Comprometimento (IoCs)**  
-- 🧠 **Threat Intelligence:** Consultas em AbuseIPDB, VirusTotal, Shodan, MISP  
-- 🔐 **Análise de Autenticação e Acessos:** LDAP, Kerberos, brute force, MFA bypass  
-- 🧬 **Resposta a Incidentes (IR):** Classificação, triagem, escalonamento  
-- 🧪 **Sandboxing & Verificação de Artefatos**  
-- 🧰 **Ferramentas de Apoio:** Wireshark, Nmap, OSINT Framework, CURL  
-- 🧼 **Higienização e Fortificação de Sistemas:** hardening básico, remoção de artefatos  
-- 🧩 **Colaboração com Red Team / Blue Team:** correlação de alertas e validações  
-- ☁️ **Ambientes Cloud:** Experiência com AWS, Azure e GCP (logs e segurança básica)  
-- ⚙️ **Automação:** Python e Bash para rotina e parsing de logs
+### 🔐 Segurança Ofensiva
+
+* Pentest **web, API, redes internas, Wi-Fi, cloud e multi-cloud**
+* Exploração de vulnerabilidades: **IDOR, XSS, SQLi, falhas de auth/autz, LFI/RFI, RCE**, entre outras
+* Uso de frameworks e boas práticas: **OWASP, MITRE ATT&CK, ISO 27001, LGPD**
+
+### ☁️ Cloud & Infraestrutura
+
+* Experiência em **AWS, Azure, GCP** e cenários híbridos
+* Análise de exposição, identidades, permissões, rede, storage e serviços publicados
+* Integração de logs e ferramentas para apoiar segurança e investigação
+
+### ⚙️ Desenvolvimento & Automação
+
+* **Python** e **Bash** para automação de rotinas de segurança e apoio a pentest
+* Criação de **APIs, scripts e pequenos serviços** voltados à segurança ofensiva
+* Uso de **Docker** e Git em fluxo de trabalho diário
+
+### 🧰 Ferramentas
+
+* **Nmap, ffuf, httpx, nuclei, Burp Suite, Wireshark, entre outras**
+* Ferramentas e fontes de **Threat Intelligence / OSINT**
+* Trabalho em **Linux e Windows** em contextos corporativos
 
 ---
 
@@ -61,45 +107,45 @@ Com base em metodologia, raciocínio lógico e empatia técnica, busco **clareza
 
 ```bash
 ┌──(D3Z33㉿Terminal)-[~/profile]
-└─$ ./soft-skills --realistic-mode
+└─$ ./soft-skills --mode=profissional
 ```
 
-- 🧩 **Atenção aos Detalhes**
-- 🔄 **Resiliência**
-- 📡 **Comunicação Técnica Clara**  
-- 🚀 **Proatividade com Cuidado**
-- ⏱️ **Gestão de Tempo em Crise**
-- 🤝 **Trabalho em Equipe**
+* **Postura calma e responsável**, inclusive em situações críticas
+* **Comunicação técnica clara**, adaptada ao público (técnico, gestão ou comercial)
+* **Organização e visão de processo**, do planejamento à entrega final
+* **Colaboração com Dev, Cloud, Infra, Segurança e Comercial**
+* **Compromisso com aprendizado contínuo** e evolução técnica constante
 
 ---
 
 ## 📜 Certificações
 
-- Cisco CyberOps Associate  
-- CCST Cybersecurity – Cisco  
-- SOC Analyst N1 & N2 – TryHackMe  
-- SOC Analyst – IBSec  
-- Pentester – IBSec  
-- MCBTA – Multi-Cloud Blue Team Analyst (CWL)  
-- 🔜 *(SOLYD - SYCP ° SYES  |  CWL - C3SA ° CPIA ° CRTA ° CRT-ID ° CRT-COI ° MCRTA ° CCSE)*
+```bash
+┌──(D3Z33㉿Terminal)-[~/certs]
+└─$ cat certs.txt
+```
+
+* Cisco CyberOps Associate
+* CCST Cybersecurity – Cisco
+* Pentester – IBSec
+* SYCP – Solyd Certified Pentester
+
+> Em evolução contínua em trilhas focadas em **Red Team, Cloud Security, Exploit Development e automação aplicada à segurança.**
 
 ---
 
-## 🌐 Portfólios & Certificações
+## 🌐 Portfólios & Contato
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-D3Z33-EC1C24?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/D3Z33)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-D3Z33-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renanreis-ciber)
-
-[![GitHub](https://img.shields.io/badge/GitHub-D3Z33-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D3Z33)
-
-[![Credly](https://img.shields.io/badge/Badges-Credly-F36D25?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/renan-rocha-dos-reis)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-D3Z33-EC1C24?style=for-the-badge\&logo=tryhackme\&logoColor=white)](https://tryhackme.com/p/D3Z33)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Renan%20Reis-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/renanreis-ciber)
+[![GitHub](https://img.shields.io/badge/GitHub-D3Z33-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/D3Z33)
+[![Credly](https://img.shields.io/badge/Badges-Credly-F36D25?style=for-the-badge\&logo=credly\&logoColor=white)](https://www.credly.com/users/renan-rocha-dos-reis)
 
 ---
 
 ```bash
 ┌──(D3Z33㉿Terminal)-[~/finish]
-└─$ echo "Mais do que preencher um cargo, busco somar onde a segurança realmente importa."
+└─$ echo "Segurança ofensiva para mostrar o problema, clareza e responsabilidade para resolver."
 ```
 
 ---
