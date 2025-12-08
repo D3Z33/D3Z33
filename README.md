@@ -126,10 +126,11 @@ Gosto de construir soluções com calma, método e responsabilidade, seja explor
 └─$ cat certs.txt
 ```
 
-* Cisco CyberOps Associate
+* CyberOps Associate - Cisco
 * CCST Cybersecurity – Cisco
 * Pentester – IBSec
 * SYCP – Solyd Certified Pentester
+* CRTA - Red Team Analyst CWL
 
 > Em evolução contínua em trilhas focadas em **Red Team, Cloud Security, Exploit Development e automação aplicada à segurança.**
 
