@@ -131,6 +131,7 @@ Gosto de construir soluções com calma, método e responsabilidade, seja explor
 * Pentester – IBSec
 * SYCP – Solyd Certified Pentester
 * CRTA - Red Team Analyst CWL
+* MCRTA - Multi-Cloud Red Team Analyst CWL
 
 > Em evolução contínua em trilhas focadas em **Red Team, Cloud Security, Exploit Development e automação aplicada à segurança.**
 
