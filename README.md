@@ -25,18 +25,19 @@ Gosto de construir soluções com calma, método e responsabilidade, seja explor
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <table style="border: none;">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=D3Z33&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&count_private=true" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3Z33&layout=compact&theme=tokyonight&hide_border=true&card_width=300" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=D3Z33&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
+    alt="GitHub Stats D3Z33"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3Z33&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages D3Z33"
+  />
+</p>
 
 ---
 
