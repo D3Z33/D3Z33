@@ -27,14 +27,14 @@ Gosto de construir soluções com calma, método e responsabilidade, seja explor
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=D3Z33&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=D3Z33&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
     alt="GitHub Stats D3Z33"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3Z33&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=D3Z33&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages D3Z33"
   />
 </p>
