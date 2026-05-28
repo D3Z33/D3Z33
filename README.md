@@ -16,6 +16,12 @@
   alt="Texto animado com especialidades de segurança"
 />
 
+<img
+  width="100%"
+  src="./assets/d3z33-neon-console.svg"
+  alt="Console neon animado D3Z33"
+/>
+
 <br />
 
 ![Visualizações](https://komarev.com/ghpvc/?username=D3Z33&style=for-the-badge&color=00ff41&label=VISUALIZA%C3%87%C3%95ES)
@@ -23,6 +29,14 @@
 [![GitHub](https://img.shields.io/badge/GitHub-D3Z33-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D3Z33)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-D3Z33-EC1C24?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/D3Z33)
 [![Credly](https://img.shields.io/badge/Credly-Certifica%C3%A7%C3%B5es-F36D25?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/renan-rocha-dos-reis)
+
+<br />
+<br />
+
+<img
+  src="https://tryhackme-badges.s3.amazonaws.com/D3Z33.png"
+  alt="Insígnia dinâmica do TryHackMe de D3Z33"
+/>
 
 <br />
 <br />
@@ -47,11 +61,13 @@ objetivo    : transformar exposição técnica em decisão inteligente
 ### `menu de navegação`
 
 [Sobre](#sobre-o-operador) ·
+[Sala Interativa](#sala-interativa) ·
 [Mapa de Atuação](#mapa-de-atuação) ·
 [Arsenal](#arsenal-técnico) ·
 [Metodologia](#metodologia-ofensiva) ·
 [Laboratório](#laboratório-e-automações) ·
 [Certificações](#certificações) ·
+[Efeitos](#efeitos-dinâmicos) ·
 [Indicadores](#indicadores-do-github) ·
 [Contato](#canais-de-contato)
 
@@ -63,6 +79,85 @@ objetivo    : transformar exposição técnica em decisão inteligente
   width="100%"
   src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00ff41,50:ffffff,100:00ff41"
   alt="Linha divisória neon"
+/>
+
+## `./sala-interativa`
+
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=700&color=FFFFFF&center=true&vCenter=true&width=920&lines=Escolha+um+caminho+e+abra+os+pain%C3%A9is;Este+README+tem+camadas%2C+atalhos%2C+efeitos+e+dossi%C3%AAs;Clique%2C+expanda%2C+navegue+e+investigue"
+  alt="Chamada animada para interação"
+/>
+
+[![Abrir Sobre](https://img.shields.io/badge/abrir-sobre-00ff41?style=for-the-badge&labelColor=000000)](#sobre-o-operador)
+[![Ver Arsenal](https://img.shields.io/badge/ver-arsenal-00ff41?style=for-the-badge&labelColor=000000)](#arsenal-técnico)
+[![Entrar na Metodologia](https://img.shields.io/badge/entrar-metodologia-00ff41?style=for-the-badge&labelColor=000000)](#metodologia-ofensiva)
+[![Ativar Efeitos](https://img.shields.io/badge/ativar-efeitos-00ff41?style=for-the-badge&labelColor=000000)](#efeitos-dinâmicos)
+
+</div>
+
+<details>
+<summary><strong>abrir modo recrutador: leitura rápida e direta</strong></summary>
+
+```txt
+o que você encontra aqui:
+  - profissional de segurança ofensiva com foco em risco real
+  - experiência com web, APIs, redes internas, Wi-Fi e nuvem
+  - automação para reduzir trabalho repetitivo e organizar evidências
+  - comunicação técnica e executiva para transformar achados em decisão
+  - postura responsável: escopo, autorização, impacto e mitigação
+```
+
+</details>
+
+<details>
+<summary><strong>abrir modo técnico: sinais que eu sigo</strong></summary>
+
+```txt
+trilha de raciocínio:
+  1. enumerar superfície
+  2. separar ruído de sinal
+  3. validar hipótese com segurança
+  4. provar impacto sem causar dano
+  5. documentar evidência reproduzível
+  6. priorizar correção por risco
+  7. retestar e fechar o ciclo
+```
+
+</details>
+
+<details>
+<summary><strong>abrir modo red team: narrativa de operação</strong></summary>
+
+```txt
+uma operação bem feita precisa responder:
+  - o caminho era detectável?
+  - o alerta chegaria para alguém?
+  - o time saberia investigar?
+  - a contenção seria rápida?
+  - a organização entende o impacto?
+  - a correção reduz o caminho de ataque?
+```
+
+</details>
+
+<details>
+<summary><strong>abrir mini quiz: pense como atacante autorizado</strong></summary>
+
+| Pergunta | Resposta esperada |
+|---|---|
+| Uma rota lista dados de outro usuário trocando apenas um ID. O que isso indica? | Falha de autorização por objeto, possível IDOR/BOLA |
+| Um papel em nuvem tem permissões amplas sem necessidade operacional. Qual é o risco? | Escalada de impacto por privilégio excessivo |
+| Uma falha tem PoC, mas impacto baixo. Ela deve virar crítica? | Não sem contexto real de negócio e exploração |
+| Um relatório tem prints, mas não tem reprodução. O que falta? | Evidência estruturada, passos claros e validação |
+
+</details>
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=slice&height=90&color=0:00ff41,50:001807,100:000000&text=acesso%20concedido&fontColor=ffffff&fontSize=24&animation=twinkling"
+  alt="Divisória animada acesso concedido"
 />
 
 ## `./sobre-o-operador`
@@ -98,7 +193,7 @@ Onde uma permissão pequena vira privilégio grande.
 Onde uma API confia demais.
 Onde um armazenamento público conta uma história que ninguém pretendia publicar.
 Onde uma regra de negócio vira vetor.
-Onde um log mostra o ataque, mas ninguém está olhando.
+Onde um registro mostra o ataque, mas ninguém está olhando.
 
 Meu trabalho é caminhar por esses pontos com autorização,
 produzir evidência, explicar risco e ajudar a fechar caminhos.
@@ -115,9 +210,21 @@ produzir evidência, explicar risco e ajudar a fechar caminhos.
 | **Exposição externa** | O que pode ser visto, tocado, enumerado e testado por um atacante |
 | **Identidade e acesso** | Onde permissões, papéis e credenciais podem virar caminho de abuso |
 | **Aplicações e APIs** | Onde autenticação, autorização, lógica e entrada de dados podem falhar |
-| **Rede interna** | Onde serviços, trust relationships e segmentação definem o impacto |
+| **Rede interna** | Onde serviços, relações de confiança e segmentação definem o impacto |
 | **Nuvem** | Onde IAM, armazenamento, rede, registros e chaves contam a história do ambiente |
 | **Detecção e resposta** | Onde a organização percebe, investiga, contém e aprende |
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img
+  width="100%"
+  src="./assets/d3z33-radar.svg"
+  alt="Radar ofensivo animado"
+/>
 
 </div>
 
@@ -380,7 +487,7 @@ ideias que me interessam:
   - normalização de achados de pentest
   - coleta de evidências com rastreabilidade
   - painéis para vulnerabilidades e severidade
-  - integração entre ferramentas de recon e relatórios
+  - integração entre ferramentas de reconhecimento e relatórios
   - análise de permissões em ambientes de nuvem
   - correlação entre registros, ativos e risco
   - automações simples para times técnicos
@@ -483,6 +590,60 @@ timeline
 
 <img
   width="100%"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=92&section=header&text=Efeitos%20Din%C3%A2micos&fontSize=30&fontColor=00ff41&animation=twinkling"
+  alt="Título animado efeitos dinâmicos"
+/>
+
+## `./efeitos-dinâmicos`
+
+<div align="center">
+
+[![Cobra de contribuições](https://img.shields.io/github/actions/workflow/status/D3Z33/D3Z33/cobra-de-contribuicoes.yml?style=for-the-badge&label=cobra%20de%20contribui%C3%A7%C3%B5es&logo=githubactions&logoColor=white&labelColor=000000&color=00ff41)](https://github.com/D3Z33/D3Z33/actions/workflows/cobra-de-contribuicoes.yml)
+[![Contribuições 3D](https://img.shields.io/github/actions/workflow/status/D3Z33/D3Z33/contribuicoes-3d.yml?style=for-the-badge&label=contribui%C3%A7%C3%B5es%203D&logo=githubactions&logoColor=white&labelColor=000000&color=00ff41)](https://github.com/D3Z33/D3Z33/actions/workflows/contribuicoes-3d.yml)
+
+<br />
+<br />
+
+<img
+  width="96%"
+  src="https://raw.githubusercontent.com/D3Z33/D3Z33/output/github-contribution-grid-snake-dark.svg"
+  alt="Cobra animada comendo contribuições do GitHub"
+/>
+
+<br />
+<br />
+
+<img
+  width="96%"
+  src="./profile-3d-contrib/profile-night-green.svg"
+  alt="Gráfico 3D de contribuições do GitHub"
+/>
+
+</div>
+
+<details>
+<summary><strong>como esses efeitos ganham vida no GitHub</strong></summary>
+
+```txt
+efeito 01: cobra de contribuições
+  arquivo: .github/workflows/cobra-de-contribuicoes.yml
+  resultado: branch output com SVG animado das contribuições
+
+efeito 02: gráfico 3D
+  arquivo: .github/workflows/contribuicoes-3d.yml
+  resultado: pasta profile-3d-contrib com arte 3D atualizada
+
+observação:
+  depois de subir no repositório do perfil, basta executar os workflows uma vez.
+  o README passa a se atualizar como uma vitrine viva.
+```
+
+</details>
+
+---
+
+<img
+  width="100%"
   src="https://capsule-render.vercel.app/api?type=transparent&height=92&section=header&text=Indicadores%20do%20GitHub&fontSize=30&fontColor=00ff41&animation=twinkling"
   alt="Título animado indicadores do GitHub"
 />
@@ -517,6 +678,29 @@ timeline
   width="96%"
   src="https://github-readme-activity-graph.vercel.app/graph?username=D3Z33&theme=chartreuse-dark&hide_border=true&area=true&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&custom_title=Mapa%20de%20Atividade"
   alt="Gráfico de atividade do GitHub de D3Z33"
+/>
+
+<br />
+<br />
+
+<img
+  width="96%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=D3Z33&theme=github_dark"
+  alt="Resumo detalhado do perfil GitHub de D3Z33"
+/>
+
+<br />
+<br />
+
+<img
+  height="170"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=D3Z33&theme=github_dark"
+  alt="Repositórios por linguagem de D3Z33"
+/>
+<img
+  height="170"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=D3Z33&theme=github_dark&utcOffset=-3"
+  alt="Horários mais produtivos de D3Z33"
 />
 
 <br />
